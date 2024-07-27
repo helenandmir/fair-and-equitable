@@ -1,0 +1,7108 @@
+->>>two_fair<<<-
+ Real time: 0.19 seconds
+ CPU time: 0.19 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.62 seconds
+ CPU time: 2.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.69 seconds
+ CPU time: 2.69 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.85 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.60 seconds
+ CPU time: 2.60 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.63 seconds
+ CPU time: 2.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.62 seconds
+ CPU time: 2.62 seconds
+
+->>>two_fair<<<-
+ Real time: 0.26 seconds
+ CPU time: 0.26 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 4.57 seconds
+ CPU time: 4.60 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 4.49 seconds
+ CPU time: 4.55 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 4.53 seconds
+ CPU time: 4.62 seconds
+
+->>>two_fair<<<-
+ Real time: 0.21 seconds
+ CPU time: 0.21 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.71 seconds
+ CPU time: 2.71 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.66 seconds
+ CPU time: 2.66 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.59 seconds
+ CPU time: 2.59 seconds
+
+->>>two_fair<<<-
+ Real time: 0.31 seconds
+ CPU time: 0.31 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 4.27 seconds
+ CPU time: 4.33 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 4.37 seconds
+ CPU time: 4.46 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 4.24 seconds
+ CPU time: 4.32 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 4.29 seconds
+ CPU time: 4.34 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 4.35 seconds
+ CPU time: 4.40 seconds
+
+->>>two_fair<<<-
+ Real time: 0.21 seconds
+ CPU time: 0.21 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.62 seconds
+ CPU time: 2.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.59 seconds
+ CPU time: 2.59 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.56 seconds
+ CPU time: 2.56 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.64 seconds
+ CPU time: 2.64 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.59 seconds
+ CPU time: 2.59 seconds
+
+->>>two_fair<<<-
+ Real time: 0.31 seconds
+ CPU time: 0.31 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.73 seconds
+ CPU time: 2.73 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.81 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.65 seconds
+ CPU time: 2.65 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.81 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.73 seconds
+ CPU time: 2.73 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.73 seconds
+ CPU time: 2.72 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.71 seconds
+ CPU time: 2.71 seconds
+
+->>>two_fair<<<-
+ Real time: 0.20 seconds
+ CPU time: 0.20 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.70 seconds
+ CPU time: 2.70 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.65 seconds
+ CPU time: 2.65 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.64 seconds
+ CPU time: 2.64 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.64 seconds
+ CPU time: 2.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.65 seconds
+ CPU time: 2.65 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.63 seconds
+ CPU time: 2.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.71 seconds
+ CPU time: 2.71 seconds
+
+->>>two_fair<<<-
+ Real time: 0.19 seconds
+ CPU time: 0.19 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.64 seconds
+ CPU time: 2.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.58 seconds
+ CPU time: 2.58 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.59 seconds
+ CPU time: 2.59 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.63 seconds
+ CPU time: 2.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.63 seconds
+ CPU time: 2.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.59 seconds
+ CPU time: 2.59 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.64 seconds
+ CPU time: 2.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.63 seconds
+ CPU time: 2.63 seconds
+
+->>>two_fair<<<-
+ Real time: 0.20 seconds
+ CPU time: 0.20 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.70 seconds
+ CPU time: 2.70 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.75 seconds
+ CPU time: 2.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.68 seconds
+ CPU time: 2.68 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.72 seconds
+ CPU time: 2.72 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.67 seconds
+ CPU time: 2.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.71 seconds
+ CPU time: 2.71 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.74 seconds
+ CPU time: 2.74 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.72 seconds
+ CPU time: 2.72 seconds
+
+->>>two_fair<<<-
+ Real time: 0.19 seconds
+ CPU time: 0.19 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.55 seconds
+ CPU time: 2.55 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.57 seconds
+ CPU time: 2.57 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.71 seconds
+ CPU time: 2.71 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.64 seconds
+ CPU time: 2.64 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.62 seconds
+ CPU time: 2.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.65 seconds
+ CPU time: 2.65 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.72 seconds
+ CPU time: 2.68 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.68 seconds
+ CPU time: 2.68 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.65 seconds
+ CPU time: 2.65 seconds
+
+->>>two_fair<<<-
+ Real time: 0.19 seconds
+ CPU time: 0.19 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.62 seconds
+ CPU time: 2.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.59 seconds
+ CPU time: 2.59 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.61 seconds
+ CPU time: 2.61 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.62 seconds
+ CPU time: 2.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.79 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.77 seconds
+ CPU time: 2.77 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.76 seconds
+ CPU time: 2.76 seconds
+
+->>>two_fair<<<-
+ Real time: 0.19 seconds
+ CPU time: 0.19 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.58 seconds
+ CPU time: 2.58 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.62 seconds
+ CPU time: 2.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.60 seconds
+ CPU time: 2.60 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.62 seconds
+ CPU time: 2.61 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.63 seconds
+ CPU time: 2.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.66 seconds
+ CPU time: 2.66 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.67 seconds
+ CPU time: 2.67 seconds
+
+->>>two_fair<<<-
+ Real time: 0.19 seconds
+ CPU time: 0.19 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.64 seconds
+ CPU time: 2.64 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.57 seconds
+ CPU time: 2.57 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.56 seconds
+ CPU time: 2.56 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.61 seconds
+ CPU time: 2.61 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.60 seconds
+ CPU time: 2.60 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.61 seconds
+ CPU time: 2.61 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.63 seconds
+ CPU time: 2.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.64 seconds
+ CPU time: 2.64 seconds
+
+->>>two_fair<<<-
+ Real time: 0.19 seconds
+ CPU time: 0.19 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.67 seconds
+ CPU time: 2.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.63 seconds
+ CPU time: 2.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.61 seconds
+ CPU time: 2.61 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.67 seconds
+ CPU time: 2.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.91 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.64 seconds
+ CPU time: 2.64 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.72 seconds
+ CPU time: 2.72 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.67 seconds
+ CPU time: 2.67 seconds
+
+->>>two_fair<<<-
+ Real time: 0.23 seconds
+ CPU time: 0.23 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.56 seconds
+ CPU time: 2.56 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.58 seconds
+ CPU time: 2.58 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.58 seconds
+ CPU time: 2.58 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.69 seconds
+ CPU time: 2.69 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.57 seconds
+ CPU time: 2.57 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.62 seconds
+ CPU time: 2.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.75 seconds
+ CPU time: 2.74 seconds
+
+->>>two_fair<<<-
+ Real time: 0.21 seconds
+ CPU time: 0.21 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.74 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.67 seconds
+ CPU time: 2.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.65 seconds
+ CPU time: 2.65 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.64 seconds
+ CPU time: 2.64 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.67 seconds
+ CPU time: 2.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.62 seconds
+ CPU time: 2.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.74 seconds
+ CPU time: 2.74 seconds
+
+->>>two_fair<<<-
+ Real time: 0.19 seconds
+ CPU time: 0.18 seconds
+*****
+->>>two_fair<<<-
+ Real time: 0.20 seconds
+ CPU time: 0.20 seconds
+*****
+->>>two_fair<<<-
+ Real time: 0.22 seconds
+ CPU time: 0.22 seconds
+*****
+->>>two_fair<<<-
+ Real time: 0.28 seconds
+ CPU time: 0.28 seconds
+*****
+->>>two_fair<<<-
+ Real time: 0.29 seconds
+ CPU time: 0.29 seconds
+*****
+->>>two_fair<<<-
+ Real time: 0.23 seconds
+ CPU time: 0.23 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.77 seconds
+ CPU time: 2.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.65 seconds
+ CPU time: 2.65 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.72 seconds
+ CPU time: 2.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.68 seconds
+ CPU time: 2.68 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.67 seconds
+ CPU time: 2.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.68 seconds
+ CPU time: 2.68 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.69 seconds
+ CPU time: 2.69 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.72 seconds
+ CPU time: 2.71 seconds
+
+->>>two_fair<<<-
+ Real time: 0.23 seconds
+ CPU time: 0.23 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.67 seconds
+ CPU time: 2.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.67 seconds
+ CPU time: 2.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.67 seconds
+ CPU time: 2.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.73 seconds
+ CPU time: 2.73 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.79 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.65 seconds
+ CPU time: 2.65 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.66 seconds
+ CPU time: 2.66 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.68 seconds
+ CPU time: 2.68 seconds
+
+->>>two_fair<<<-
+ Real time: 0.23 seconds
+ CPU time: 0.23 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.20 seconds
+ CPU time: 3.20 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.23 seconds
+ CPU time: 3.23 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.56 seconds
+ CPU time: 3.56 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.12 seconds
+ CPU time: 3.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.12 seconds
+ CPU time: 3.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.25 seconds
+ CPU time: 3.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.31 seconds
+ CPU time: 3.30 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>two_fair<<<-
+ Real time: 0.26 seconds
+ CPU time: 0.26 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.79 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.00 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.88 seconds
+ CPU time: 2.88 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.77 seconds
+ CPU time: 2.77 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.88 seconds
+ CPU time: 2.88 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.30 seconds
+ CPU time: 3.29 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.21 seconds
+ CPU time: 3.21 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.24 seconds
+ CPU time: 3.23 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.14 seconds
+ CPU time: 3.13 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.14 seconds
+ CPU time: 3.14 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.19 seconds
+ CPU time: 3.19 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.25 seconds
+ CPU time: 3.25 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.22 seconds
+ CPU time: 3.22 seconds
+
+->>>two_fair<<<-
+ Real time: 0.23 seconds
+ CPU time: 0.23 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.75 seconds
+ CPU time: 2.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.68 seconds
+ CPU time: 2.68 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.67 seconds
+ CPU time: 2.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.69 seconds
+ CPU time: 2.69 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.77 seconds
+ CPU time: 2.77 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.95 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.94 seconds
+ CPU time: 2.94 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.99 seconds
+ CPU time: 2.99 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.93 seconds
+ CPU time: 2.93 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.93 seconds
+ CPU time: 2.93 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>two_fair<<<-
+ Real time: 0.21 seconds
+ CPU time: 0.21 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.79 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.76 seconds
+ CPU time: 2.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.98 seconds
+ CPU time: 2.98 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.98 seconds
+ CPU time: 2.98 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.01 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.13 seconds
+ CPU time: 3.13 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.21 seconds
+ CPU time: 3.21 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.22 seconds
+ CPU time: 3.22 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.23 seconds
+ CPU time: 3.23 seconds
+
+->>>two_fair<<<-
+ Real time: 0.24 seconds
+ CPU time: 0.24 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.66 seconds
+ CPU time: 2.66 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.67 seconds
+ CPU time: 2.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.63 seconds
+ CPU time: 2.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.65 seconds
+ CPU time: 2.65 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.63 seconds
+ CPU time: 2.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.65 seconds
+ CPU time: 2.65 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.63 seconds
+ CPU time: 2.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.62 seconds
+ CPU time: 2.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.64 seconds
+ CPU time: 2.64 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.61 seconds
+ CPU time: 2.61 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.73 seconds
+ CPU time: 2.71 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.76 seconds
+ CPU time: 2.74 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.75 seconds
+ CPU time: 2.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.75 seconds
+ CPU time: 2.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.76 seconds
+ CPU time: 2.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.78 seconds
+ CPU time: 2.78 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.79 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.85 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.89 seconds
+ CPU time: 2.89 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.93 seconds
+ CPU time: 2.92 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.90 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.94 seconds
+ CPU time: 2.93 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.94 seconds
+ CPU time: 2.94 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.93 seconds
+ CPU time: 2.93 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.97 seconds
+ CPU time: 2.97 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.99 seconds
+ CPU time: 2.99 seconds
+
+->>>two_fair<<<-
+ Real time: 0.22 seconds
+ CPU time: 0.22 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.60 seconds
+ CPU time: 2.60 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.62 seconds
+ CPU time: 2.61 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.59 seconds
+ CPU time: 2.58 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.63 seconds
+ CPU time: 2.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.61 seconds
+ CPU time: 2.61 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.68 seconds
+ CPU time: 2.68 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.65 seconds
+ CPU time: 2.65 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.64 seconds
+ CPU time: 2.64 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.62 seconds
+ CPU time: 2.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.85 seconds
+ CPU time: 2.85 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.98 seconds
+ CPU time: 2.97 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.70 seconds
+ CPU time: 2.70 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.87 seconds
+ CPU time: 2.86 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.00 seconds
+ CPU time: 3.00 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.76 seconds
+ CPU time: 2.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.74 seconds
+ CPU time: 2.74 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.76 seconds
+ CPU time: 2.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.81 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.85 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.85 seconds
+ CPU time: 2.85 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.85 seconds
+ CPU time: 2.85 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.90 seconds
+ CPU time: 2.90 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.91 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.95 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.90 seconds
+ CPU time: 2.90 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.95 seconds
+
+->>>two_fair<<<-
+ Real time: 0.24 seconds
+ CPU time: 0.24 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.62 seconds
+ CPU time: 2.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.62 seconds
+ CPU time: 2.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.67 seconds
+ CPU time: 2.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.64 seconds
+ CPU time: 2.64 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.64 seconds
+ CPU time: 2.64 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.68 seconds
+ CPU time: 2.68 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.63 seconds
+ CPU time: 2.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.65 seconds
+ CPU time: 2.65 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.66 seconds
+ CPU time: 2.66 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.70 seconds
+ CPU time: 2.70 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.71 seconds
+ CPU time: 2.71 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.72 seconds
+ CPU time: 2.72 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.76 seconds
+ CPU time: 2.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.79 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.78 seconds
+ CPU time: 2.78 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.81 seconds
+ CPU time: 2.81 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.85 seconds
+ CPU time: 2.85 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.85 seconds
+ CPU time: 2.85 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.90 seconds
+ CPU time: 2.90 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.13 seconds
+ CPU time: 3.13 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.19 seconds
+ CPU time: 3.19 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.92 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.97 seconds
+ CPU time: 2.97 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.01 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.12 seconds
+ CPU time: 3.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.27 seconds
+ CPU time: 3.27 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.29 seconds
+ CPU time: 3.28 seconds
+
+->>>two_fair<<<-
+ Real time: 4.25 seconds
+ CPU time: 4.25 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.93 seconds
+ CPU time: 2.93 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.90 seconds
+ CPU time: 2.90 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.88 seconds
+ CPU time: 2.88 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.97 seconds
+ CPU time: 2.97 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.91 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.94 seconds
+ CPU time: 2.94 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.99 seconds
+ CPU time: 2.96 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.96 seconds
+ CPU time: 2.96 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.06 seconds
+ CPU time: 3.06 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.08 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.14 seconds
+ CPU time: 3.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.17 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.17 seconds
+ CPU time: 3.17 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.14 seconds
+ CPU time: 3.14 seconds
+
+->>>two_fair<<<-
+ Real time: 5.66 seconds
+ CPU time: 5.66 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.99 seconds
+ CPU time: 5.99 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.69 seconds
+ CPU time: 5.69 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.03 seconds
+ CPU time: 4.02 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.72 seconds
+ CPU time: 5.72 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.90 seconds
+ CPU time: 5.90 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.78 seconds
+ CPU time: 6.72 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.62 seconds
+ CPU time: 6.63 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.71 seconds
+ CPU time: 6.70 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.85 seconds
+ CPU time: 6.85 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.83 seconds
+ CPU time: 5.83 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.03 seconds
+ CPU time: 6.03 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.17 seconds
+ CPU time: 6.12 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.06 seconds
+ CPU time: 6.06 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.05 seconds
+ CPU time: 6.05 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.97 seconds
+ CPU time: 5.97 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.88 seconds
+ CPU time: 5.87 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.06 seconds
+ CPU time: 6.06 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.05 seconds
+ CPU time: 6.05 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.99 seconds
+ CPU time: 6.00 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.06 seconds
+ CPU time: 6.07 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.00 seconds
+ CPU time: 6.00 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.77 seconds
+ CPU time: 6.77 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.00 seconds
+ CPU time: 5.98 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.29 seconds
+ CPU time: 4.29 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.04 seconds
+ CPU time: 6.00 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.99 seconds
+ CPU time: 5.99 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.87 seconds
+ CPU time: 5.88 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.02 seconds
+ CPU time: 6.02 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.09 seconds
+ CPU time: 6.09 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.91 seconds
+ CPU time: 5.91 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.09 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.99 seconds
+ CPU time: 3.00 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.90 seconds
+ CPU time: 2.91 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.01 seconds
+ CPU time: 2.97 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.01 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.33 seconds
+ CPU time: 3.33 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.93 seconds
+ CPU time: 2.93 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.95 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.01 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.09 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.93 seconds
+ CPU time: 2.93 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.10 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.75 seconds
+ CPU time: 2.75 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.00 seconds
+ CPU time: 3.00 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.97 seconds
+ CPU time: 2.97 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.30 seconds
+ CPU time: 3.30 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.98 seconds
+ CPU time: 2.99 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.93 seconds
+ CPU time: 2.93 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.61 seconds
+ CPU time: 4.61 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.13 seconds
+ CPU time: 4.13 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.05 seconds
+ CPU time: 4.01 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.97 seconds
+ CPU time: 2.97 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.97 seconds
+ CPU time: 2.97 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.99 seconds
+ CPU time: 2.98 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.01 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.01 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.03 seconds
+ CPU time: 3.03 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.24 seconds
+ CPU time: 3.23 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.22 seconds
+ CPU time: 3.22 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.29 seconds
+ CPU time: 3.25 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.24 seconds
+ CPU time: 3.24 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.23 seconds
+ CPU time: 3.23 seconds
+
+->>>two_fair<<<-
+ Real time: 3.82 seconds
+ CPU time: 3.82 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.98 seconds
+ CPU time: 2.98 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.94 seconds
+ CPU time: 2.94 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.92 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.93 seconds
+ CPU time: 2.93 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.95 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.95 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.94 seconds
+ CPU time: 2.94 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.97 seconds
+ CPU time: 2.97 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.01 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.12 seconds
+ CPU time: 3.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.08 seconds
+ CPU time: 3.08 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.12 seconds
+ CPU time: 3.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.13 seconds
+ CPU time: 3.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.14 seconds
+ CPU time: 3.14 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.15 seconds
+ CPU time: 3.15 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.29 seconds
+ CPU time: 3.28 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.22 seconds
+ CPU time: 3.21 seconds
+
+->>>two_fair<<<-
+ Real time: 1.97 seconds
+ CPU time: 1.96 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.81 seconds
+ CPU time: 2.81 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.81 seconds
+ CPU time: 2.81 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.89 seconds
+ CPU time: 2.89 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.90 seconds
+ CPU time: 2.89 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.89 seconds
+ CPU time: 2.89 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.91 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.91 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.94 seconds
+ CPU time: 2.94 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.88 seconds
+ CPU time: 2.88 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.88 seconds
+ CPU time: 2.88 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.90 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.93 seconds
+ CPU time: 2.93 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.43 seconds
+ CPU time: 3.42 seconds
+
+->>>two_fair<<<-
+ Real time: 2.04 seconds
+ CPU time: 2.04 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.07 seconds
+ CPU time: 2.07 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.06 seconds
+ CPU time: 3.06 seconds
+
+->>>two_fair<<<-
+ Real time: 2.49 seconds
+ CPU time: 2.48 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.28 seconds
+ CPU time: 3.27 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.06 seconds
+ CPU time: 3.06 seconds
+
+->>>two_fair<<<-
+ Real time: 2.00 seconds
+ CPU time: 2.00 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.37 seconds
+ CPU time: 3.37 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>two_fair<<<-
+ Real time: 2.53 seconds
+ CPU time: 2.47 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.04 seconds
+ CPU time: 2.04 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.11 seconds
+ CPU time: 2.11 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.14 seconds
+ CPU time: 2.13 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.79 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.87 seconds
+ CPU time: 2.87 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.87 seconds
+ CPU time: 2.87 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+
+->>>two_fair<<<-
+ Real time: 1.96 seconds
+ CPU time: 1.96 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.90 seconds
+ CPU time: 2.89 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.90 seconds
+ CPU time: 2.89 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.89 seconds
+ CPU time: 2.89 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.89 seconds
+ CPU time: 2.89 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.90 seconds
+ CPU time: 2.90 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.90 seconds
+ CPU time: 2.90 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.88 seconds
+ CPU time: 2.88 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.91 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.95 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.91 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+
+->>>two_fair<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.99 seconds
+ CPU time: 2.99 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 4.57 seconds
+ CPU time: 4.58 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 4.96 seconds
+ CPU time: 4.89 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 4.59 seconds
+ CPU time: 4.59 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 4.78 seconds
+ CPU time: 4.78 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 4.52 seconds
+ CPU time: 4.52 seconds
+
+->>>two_fair<<<-
+ Real time: 1.99 seconds
+ CPU time: 1.98 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.03 seconds
+ CPU time: 3.03 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.31 seconds
+ CPU time: 3.31 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.85 seconds
+ CPU time: 2.85 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>two_fair<<<-
+ Real time: 2.03 seconds
+ CPU time: 2.02 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.87 seconds
+ CPU time: 2.87 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.95 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.04 seconds
+
+->>>two_fair<<<-
+ Real time: 1.99 seconds
+ CPU time: 1.99 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.99 seconds
+ CPU time: 2.99 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.00 seconds
+
+->>>two_fair<<<-
+ Real time: 1.93 seconds
+ CPU time: 1.93 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.90 seconds
+ CPU time: 2.90 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 2.98 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 2.96 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.95 seconds
+
+->>>two_fair<<<-
+ Real time: 1.95 seconds
+ CPU time: 1.95 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.92 seconds
+
+->>>two_fair<<<-
+ Real time: 1.99 seconds
+ CPU time: 1.99 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.03 seconds
+ CPU time: 3.03 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.92 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.97 seconds
+ CPU time: 2.97 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.91 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.98 seconds
+ CPU time: 2.98 seconds
+
+->>>two_fair<<<-
+ Real time: 2.90 seconds
+ CPU time: 2.90 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.00 seconds
+ CPU time: 2.00 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.12 seconds
+ CPU time: 2.12 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.03 seconds
+ CPU time: 2.03 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.42 seconds
+ CPU time: 3.42 seconds
+*****
+->>>two_fair<<<-
+ Real time: 1.98 seconds
+ CPU time: 1.98 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.25 seconds
+ CPU time: 3.24 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.19 seconds
+ CPU time: 2.19 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.13 seconds
+ CPU time: 3.13 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.00 seconds
+ CPU time: 2.00 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.01 seconds
+ CPU time: 2.01 seconds
+*****
+->>>two_fair<<<-
+ Real time: 1.96 seconds
+ CPU time: 1.96 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.18 seconds
+ CPU time: 2.17 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.96 seconds
+ CPU time: 2.96 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.00 seconds
+ CPU time: 2.00 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.92 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.23 seconds
+ CPU time: 3.23 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.00 seconds
+ CPU time: 2.99 seconds
+
+->>>two_fair<<<-
+ Real time: 2.07 seconds
+ CPU time: 2.07 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.15 seconds
+ CPU time: 3.14 seconds
+
+->>>two_fair<<<-
+ Real time: 2.96 seconds
+ CPU time: 2.96 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.94 seconds
+*****
+->>>two_fair<<<-
+ Real time: 1.97 seconds
+ CPU time: 1.96 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.74 seconds
+ CPU time: 2.74 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 2.91 seconds
+
+->>>two_fair<<<-
+ Real time: 3.08 seconds
+ CPU time: 3.07 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 4.44 seconds
+ CPU time: 4.44 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 4.72 seconds
+ CPU time: 4.72 seconds
+
+->>>two_fair<<<-
+ Real time: 2.88 seconds
+ CPU time: 2.88 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 4.76 seconds
+ CPU time: 4.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 4.99 seconds
+ CPU time: 4.99 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 4.81 seconds
+ CPU time: 4.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 4.71 seconds
+ CPU time: 4.72 seconds
+
+->>>two_fair<<<-
+ Real time: 2.05 seconds
+ CPU time: 2.05 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.87 seconds
+ CPU time: 2.87 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.01 seconds
+
+->>>two_fair<<<-
+ Real time: 1.96 seconds
+ CPU time: 1.96 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.02 seconds
+ CPU time: 2.02 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.76 seconds
+ CPU time: 2.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.79 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.85 seconds
+ CPU time: 2.85 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.90 seconds
+ CPU time: 2.90 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.88 seconds
+ CPU time: 2.88 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.87 seconds
+ CPU time: 2.87 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.97 seconds
+ CPU time: 2.95 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 2.98 seconds
+
+->>>two_fair<<<-
+ Real time: 1.91 seconds
+ CPU time: 1.91 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.96 seconds
+ CPU time: 2.95 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.95 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.99 seconds
+ CPU time: 2.99 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.16 seconds
+ CPU time: 3.15 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.45 seconds
+ CPU time: 3.44 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.03 seconds
+ CPU time: 3.03 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.03 seconds
+ CPU time: 3.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.06 seconds
+ CPU time: 3.06 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.13 seconds
+ CPU time: 3.13 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.43 seconds
+ CPU time: 3.39 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.08 seconds
+ CPU time: 3.08 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.30 seconds
+ CPU time: 3.29 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.29 seconds
+ CPU time: 3.29 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.19 seconds
+ CPU time: 3.19 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 12.21 seconds
+ CPU time: 12.20 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 12.54 seconds
+ CPU time: 12.40 seconds
+
+->>>two_fair<<<-
+ Real time: 1.99 seconds
+ CPU time: 1.98 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.79 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.81 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.92 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.94 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.95 seconds
+
+->>>two_fair<<<-
+ Real time: 2.00 seconds
+ CPU time: 2.00 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.92 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.85 seconds
+ CPU time: 2.85 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.88 seconds
+ CPU time: 2.88 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.95 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.97 seconds
+ CPU time: 2.97 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 12.05 seconds
+ CPU time: 12.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 12.14 seconds
+ CPU time: 12.13 seconds
+
+->>>two_fair<<<-
+ Real time: 1.87 seconds
+ CPU time: 1.87 seconds
+*****
+->>>two_fair<<<-
+ Real time: 1.98 seconds
+ CPU time: 1.98 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.70 seconds
+ CPU time: 2.69 seconds
+*****
+->>>two_fair<<<-
+ Real time: 1.97 seconds
+ CPU time: 1.97 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.00 seconds
+ CPU time: 2.00 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.05 seconds
+ CPU time: 2.05 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.04 seconds
+ CPU time: 2.03 seconds
+*****
+->>>two_fair<<<-
+ Real time: 1.82 seconds
+ CPU time: 1.79 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.79 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.12 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.03 seconds
+ CPU time: 2.98 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.87 seconds
+ CPU time: 2.87 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.94 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.99 seconds
+ CPU time: 2.98 seconds
+
+->>>two_fair<<<-
+ Real time: 2.06 seconds
+ CPU time: 2.06 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.78 seconds
+ CPU time: 2.78 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.94 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.91 seconds
+
+->>>two_fair<<<-
+ Real time: 1.96 seconds
+ CPU time: 1.96 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.85 seconds
+ CPU time: 2.85 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.91 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.92 seconds
+
+->>>two_fair<<<-
+ Real time: 2.00 seconds
+ CPU time: 2.00 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.96 seconds
+ CPU time: 2.96 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.97 seconds
+ CPU time: 2.95 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.98 seconds
+ CPU time: 2.96 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.98 seconds
+ CPU time: 2.98 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.96 seconds
+ CPU time: 2.96 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.00 seconds
+ CPU time: 3.00 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.98 seconds
+ CPU time: 2.98 seconds
+
+->>>two_fair<<<-
+ Real time: 2.01 seconds
+ CPU time: 2.00 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.99 seconds
+ CPU time: 2.96 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.88 seconds
+ CPU time: 2.88 seconds
+
+->>>two_fair<<<-
+ Real time: 2.05 seconds
+ CPU time: 2.05 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.81 seconds
+ CPU time: 2.81 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.74 seconds
+ CPU time: 2.74 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.75 seconds
+ CPU time: 2.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.76 seconds
+ CPU time: 2.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.80 seconds
+
+->>>two_fair<<<-
+ Real time: 1.86 seconds
+ CPU time: 1.86 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.86 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.89 seconds
+ CPU time: 2.88 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+
+->>>two_fair<<<-
+ Real time: 1.86 seconds
+ CPU time: 1.86 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.77 seconds
+ CPU time: 2.77 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.87 seconds
+ CPU time: 2.87 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.77 seconds
+ CPU time: 2.77 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.88 seconds
+ CPU time: 2.88 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>two_fair<<<-
+ Real time: 2.01 seconds
+ CPU time: 1.97 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.78 seconds
+ CPU time: 2.78 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.93 seconds
+ CPU time: 2.92 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.93 seconds
+ CPU time: 2.93 seconds
+
+->>>two_fair<<<-
+ Real time: 1.88 seconds
+ CPU time: 1.88 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.79 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.70 seconds
+ CPU time: 2.70 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.76 seconds
+ CPU time: 2.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.81 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.81 seconds
+ CPU time: 2.81 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.87 seconds
+
+->>>two_fair<<<-
+ Real time: 4.79 seconds
+ CPU time: 4.79 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.97 seconds
+ CPU time: 2.97 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.95 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.17 seconds
+ CPU time: 3.17 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>two_fair<<<-
+ Real time: 3.91 seconds
+ CPU time: 3.91 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.38 seconds
+ CPU time: 4.17 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.98 seconds
+ CPU time: 3.95 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.06 seconds
+ CPU time: 4.06 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.98 seconds
+ CPU time: 3.98 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.00 seconds
+ CPU time: 3.98 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.74 seconds
+ CPU time: 5.58 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.49 seconds
+ CPU time: 5.45 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.94 seconds
+ CPU time: 2.93 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.36 seconds
+ CPU time: 3.29 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.50 seconds
+ CPU time: 3.42 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.94 seconds
+ CPU time: 3.87 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.17 seconds
+ CPU time: 3.17 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.28 seconds
+ CPU time: 3.27 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.49 seconds
+ CPU time: 3.46 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.84 seconds
+ CPU time: 3.65 seconds
+
+->>>two_fair<<<-
+ Real time: 3.84 seconds
+ CPU time: 3.84 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.82 seconds
+ CPU time: 3.82 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.70 seconds
+ CPU time: 3.70 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.76 seconds
+ CPU time: 3.76 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.13 seconds
+ CPU time: 5.13 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.82 seconds
+ CPU time: 3.81 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.09 seconds
+ CPU time: 5.04 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.12 seconds
+ CPU time: 5.10 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.78 seconds
+ CPU time: 5.75 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.47 seconds
+ CPU time: 5.43 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.44 seconds
+ CPU time: 5.42 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.12 seconds
+ CPU time: 3.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.03 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.06 seconds
+ CPU time: 3.06 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.96 seconds
+ CPU time: 2.96 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.26 seconds
+ CPU time: 3.26 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.14 seconds
+ CPU time: 3.14 seconds
+
+->>>two_fair<<<-
+ Real time: 4.03 seconds
+ CPU time: 4.03 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.89 seconds
+ CPU time: 3.89 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.06 seconds
+ CPU time: 4.05 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.28 seconds
+ CPU time: 4.28 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.14 seconds
+ CPU time: 3.14 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.28 seconds
+ CPU time: 3.28 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.26 seconds
+ CPU time: 3.26 seconds
+
+->>>two_fair<<<-
+ Real time: 4.06 seconds
+ CPU time: 4.06 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.26 seconds
+ CPU time: 3.26 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.16 seconds
+ CPU time: 3.16 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.24 seconds
+ CPU time: 3.24 seconds
+
+->>>two_fair<<<-
+ Real time: 4.13 seconds
+ CPU time: 4.13 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.03 seconds
+ CPU time: 3.03 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.11 seconds
+ CPU time: 3.11 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.17 seconds
+ CPU time: 3.17 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.08 seconds
+ CPU time: 3.08 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.37 seconds
+ CPU time: 3.37 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.22 seconds
+ CPU time: 3.22 seconds
+
+->>>two_fair<<<-
+ Real time: 3.95 seconds
+ CPU time: 3.95 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.12 seconds
+ CPU time: 3.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.15 seconds
+ CPU time: 3.15 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.21 seconds
+ CPU time: 3.20 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.20 seconds
+ CPU time: 3.20 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.20 seconds
+ CPU time: 3.20 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.23 seconds
+ CPU time: 3.23 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.26 seconds
+ CPU time: 3.26 seconds
+
+->>>two_fair<<<-
+ Real time: 4.03 seconds
+ CPU time: 4.03 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.02 seconds
+ CPU time: 4.02 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.97 seconds
+ CPU time: 3.97 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.98 seconds
+ CPU time: 2.98 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.21 seconds
+ CPU time: 3.21 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.20 seconds
+ CPU time: 3.20 seconds
+
+->>>two_fair<<<-
+ Real time: 4.05 seconds
+ CPU time: 4.05 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.01 seconds
+ CPU time: 4.00 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.06 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.19 seconds
+ CPU time: 3.19 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.29 seconds
+ CPU time: 3.29 seconds
+
+->>>two_fair<<<-
+ Real time: 3.99 seconds
+ CPU time: 3.99 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.11 seconds
+ CPU time: 4.08 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.00 seconds
+ CPU time: 4.00 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.08 seconds
+ CPU time: 3.08 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.15 seconds
+ CPU time: 3.15 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.19 seconds
+ CPU time: 3.19 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.12 seconds
+ CPU time: 3.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.13 seconds
+ CPU time: 3.13 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.13 seconds
+ CPU time: 3.13 seconds
+
+->>>two_fair<<<-
+ Real time: 4.14 seconds
+ CPU time: 4.14 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.09 seconds
+ CPU time: 4.09 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.12 seconds
+ CPU time: 4.11 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.13 seconds
+ CPU time: 3.13 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.22 seconds
+ CPU time: 3.21 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.24 seconds
+ CPU time: 3.24 seconds
+
+->>>two_fair<<<-
+ Real time: 3.92 seconds
+ CPU time: 3.92 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.11 seconds
+ CPU time: 4.11 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.00 seconds
+ CPU time: 2.99 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.26 seconds
+ CPU time: 3.26 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.25 seconds
+ CPU time: 3.25 seconds
+
+->>>two_fair<<<-
+ Real time: 4.06 seconds
+ CPU time: 4.06 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.23 seconds
+ CPU time: 3.23 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.20 seconds
+ CPU time: 3.20 seconds
+
+->>>two_fair<<<-
+ Real time: 6.91 seconds
+ CPU time: 6.84 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.97 seconds
+ CPU time: 2.97 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.91 seconds
+
+->>>two_fair<<<-
+ Real time: 4.38 seconds
+ CPU time: 4.38 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.99 seconds
+ CPU time: 3.99 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.08 seconds
+ CPU time: 4.07 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.07 seconds
+ CPU time: 4.07 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.89 seconds
+ CPU time: 3.89 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.79 seconds
+ CPU time: 3.79 seconds
+*****
+->>>two_fair<<<-
+ Real time: 2.94 seconds
+ CPU time: 2.94 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.00 seconds
+ CPU time: 3.00 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.00 seconds
+ CPU time: 3.00 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.06 seconds
+ CPU time: 3.06 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.06 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.03 seconds
+ CPU time: 3.03 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.16 seconds
+ CPU time: 3.16 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.17 seconds
+ CPU time: 3.17 seconds
+
+->>>two_fair<<<-
+ Real time: 4.02 seconds
+ CPU time: 4.02 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.99 seconds
+ CPU time: 3.98 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.33 seconds
+ CPU time: 4.33 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.05 seconds
+ CPU time: 4.05 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.21 seconds
+ CPU time: 4.17 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.25 seconds
+ CPU time: 3.25 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.24 seconds
+ CPU time: 3.24 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.15 seconds
+ CPU time: 3.15 seconds
+
+->>>two_fair<<<-
+ Real time: 5.27 seconds
+ CPU time: 5.27 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.14 seconds
+ CPU time: 4.14 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.26 seconds
+ CPU time: 4.25 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.90 seconds
+ CPU time: 4.89 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.14 seconds
+ CPU time: 3.14 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.12 seconds
+ CPU time: 3.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.20 seconds
+ CPU time: 3.15 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.21 seconds
+ CPU time: 3.21 seconds
+
+->>>two_fair<<<-
+ Real time: 3.93 seconds
+ CPU time: 3.93 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.03 seconds
+ CPU time: 4.03 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.26 seconds
+ CPU time: 4.26 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.07 seconds
+ CPU time: 4.07 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.17 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.29 seconds
+ CPU time: 3.29 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.27 seconds
+ CPU time: 3.27 seconds
+
+->>>two_fair<<<-
+ Real time: 3.96 seconds
+ CPU time: 3.96 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.02 seconds
+ CPU time: 4.02 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.10 seconds
+ CPU time: 4.09 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.23 seconds
+ CPU time: 4.20 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.59 seconds
+ CPU time: 4.58 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.30 seconds
+ CPU time: 4.30 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.21 seconds
+ CPU time: 4.20 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.29 seconds
+ CPU time: 4.27 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.31 seconds
+ CPU time: 4.31 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.34 seconds
+ CPU time: 4.34 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.28 seconds
+ CPU time: 4.28 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.56 seconds
+ CPU time: 4.53 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.36 seconds
+ CPU time: 5.33 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.40 seconds
+ CPU time: 5.39 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.22 seconds
+ CPU time: 6.19 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.20 seconds
+ CPU time: 4.20 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.13 seconds
+ CPU time: 4.13 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.92 seconds
+ CPU time: 4.90 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.85 seconds
+ CPU time: 5.85 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.22 seconds
+ CPU time: 4.22 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.31 seconds
+ CPU time: 3.30 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.25 seconds
+ CPU time: 3.25 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.36 seconds
+ CPU time: 3.36 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.17 seconds
+ CPU time: 3.17 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.99 seconds
+ CPU time: 2.98 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.01 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.06 seconds
+ CPU time: 3.06 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.08 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.20 seconds
+ CPU time: 3.20 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.22 seconds
+ CPU time: 3.22 seconds
+
+->>>two_fair<<<-
+ Real time: 4.02 seconds
+ CPU time: 4.02 seconds
+*****
+->>>two_fair<<<-
+ Real time: 5.78 seconds
+ CPU time: 5.73 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.01 seconds
+ CPU time: 6.01 seconds
+*****
+->>>two_fair<<<-
+ Real time: 6.80 seconds
+ CPU time: 6.80 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.42 seconds
+ CPU time: 4.42 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.98 seconds
+ CPU time: 2.98 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.00 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.98 seconds
+ CPU time: 2.98 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.99 seconds
+ CPU time: 2.99 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.03 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.03 seconds
+ CPU time: 3.01 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.20 seconds
+ CPU time: 3.16 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.00 seconds
+ CPU time: 3.00 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.06 seconds
+ CPU time: 3.06 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.06 seconds
+ CPU time: 3.06 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.11 seconds
+ CPU time: 3.11 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.06 seconds
+ CPU time: 3.06 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.08 seconds
+ CPU time: 3.08 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.08 seconds
+ CPU time: 3.08 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.20 seconds
+ CPU time: 3.20 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.26 seconds
+ CPU time: 3.26 seconds
+
+->>>two_fair<<<-
+ Real time: 1.99 seconds
+ CPU time: 1.99 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.78 seconds
+ CPU time: 2.78 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.74 seconds
+ CPU time: 2.74 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.81 seconds
+ CPU time: 2.81 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.73 seconds
+ CPU time: 2.73 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.74 seconds
+ CPU time: 2.74 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.72 seconds
+ CPU time: 2.72 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.73 seconds
+ CPU time: 2.73 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.75 seconds
+ CPU time: 2.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.76 seconds
+ CPU time: 2.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.77 seconds
+ CPU time: 2.77 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.76 seconds
+ CPU time: 2.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.85 seconds
+ CPU time: 2.85 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.89 seconds
+ CPU time: 2.89 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.87 seconds
+ CPU time: 2.87 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.77 seconds
+ CPU time: 2.77 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.88 seconds
+ CPU time: 2.88 seconds
+
+->>>two_fair<<<-
+ Real time: 2.30 seconds
+ CPU time: 2.23 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.79 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.82 seconds
+ CPU time: 3.70 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.86 seconds
+ CPU time: 3.73 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.64 seconds
+ CPU time: 3.49 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.34 seconds
+ CPU time: 3.32 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.63 seconds
+ CPU time: 3.54 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.93 seconds
+ CPU time: 2.93 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.14 seconds
+ CPU time: 3.14 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.11 seconds
+ CPU time: 3.11 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.40 seconds
+ CPU time: 3.33 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.43 seconds
+ CPU time: 3.38 seconds
+
+->>>two_fair<<<-
+ Real time: 4.78 seconds
+ CPU time: 4.77 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.06 seconds
+ CPU time: 3.06 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.08 seconds
+ CPU time: 3.08 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.12 seconds
+ CPU time: 3.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.13 seconds
+ CPU time: 3.11 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.15 seconds
+ CPU time: 3.15 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.19 seconds
+ CPU time: 3.19 seconds
+
+->>>two_fair<<<-
+ Real time: 4.39 seconds
+ CPU time: 4.39 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.03 seconds
+ CPU time: 3.03 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.00 seconds
+ CPU time: 3.00 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.01 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.03 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.06 seconds
+ CPU time: 3.06 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.11 seconds
+ CPU time: 3.11 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.17 seconds
+ CPU time: 3.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.08 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.08 seconds
+ CPU time: 3.08 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.13 seconds
+ CPU time: 3.13 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.14 seconds
+ CPU time: 3.14 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.13 seconds
+ CPU time: 3.13 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.15 seconds
+ CPU time: 3.15 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.14 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.13 seconds
+ CPU time: 3.13 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.23 seconds
+ CPU time: 3.23 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.28 seconds
+ CPU time: 3.28 seconds
+
+->>>two_fair<<<-
+ Real time: 2.24 seconds
+ CPU time: 2.23 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.36 seconds
+ CPU time: 3.35 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.85 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.78 seconds
+ CPU time: 2.78 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.79 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.76 seconds
+ CPU time: 2.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.76 seconds
+ CPU time: 2.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.75 seconds
+ CPU time: 2.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.75 seconds
+ CPU time: 2.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.81 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.79 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.81 seconds
+ CPU time: 2.81 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.81 seconds
+ CPU time: 2.81 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.88 seconds
+ CPU time: 2.88 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.89 seconds
+ CPU time: 2.89 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.89 seconds
+ CPU time: 2.89 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.90 seconds
+ CPU time: 2.90 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.93 seconds
+ CPU time: 2.93 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.00 seconds
+ CPU time: 3.00 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.92 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.99 seconds
+ CPU time: 2.97 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.24 seconds
+ CPU time: 3.24 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.26 seconds
+ CPU time: 3.26 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.19 seconds
+ CPU time: 3.19 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.22 seconds
+ CPU time: 3.22 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.21 seconds
+ CPU time: 3.21 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.01 seconds
+
+->>>two_fair<<<-
+ Real time: 2.47 seconds
+ CPU time: 2.47 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.95 seconds
+
+->>>two_fair<<<-
+ Real time: 2.32 seconds
+ CPU time: 2.32 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.01 seconds
+
+->>>two_fair<<<-
+ Real time: 2.35 seconds
+ CPU time: 2.35 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.98 seconds
+ CPU time: 2.98 seconds
+
+->>>two_fair<<<-
+ Real time: 2.36 seconds
+ CPU time: 2.36 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.92 seconds
+
+->>>two_fair<<<-
+ Real time: 2.38 seconds
+ CPU time: 2.38 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.86 seconds
+ CPU time: 2.86 seconds
+
+->>>two_fair<<<-
+ Real time: 2.57 seconds
+ CPU time: 2.56 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.52 seconds
+ CPU time: 3.51 seconds
+
+->>>two_fair<<<-
+ Real time: 2.38 seconds
+ CPU time: 2.38 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.06 seconds
+ CPU time: 3.05 seconds
+
+->>>two_fair<<<-
+ Real time: 2.37 seconds
+ CPU time: 2.37 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.89 seconds
+ CPU time: 2.89 seconds
+
+->>>two_fair<<<-
+ Real time: 2.35 seconds
+ CPU time: 2.35 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.87 seconds
+ CPU time: 2.87 seconds
+
+->>>two_fair<<<-
+ Real time: 2.45 seconds
+ CPU time: 2.45 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.92 seconds
+
+->>>two_fair<<<-
+ Real time: 2.37 seconds
+ CPU time: 2.37 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.94 seconds
+ CPU time: 2.94 seconds
+
+->>>two_fair<<<-
+ Real time: 2.40 seconds
+ CPU time: 2.40 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.92 seconds
+
+->>>two_fair<<<-
+ Real time: 2.48 seconds
+ CPU time: 2.48 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.90 seconds
+ CPU time: 2.90 seconds
+
+->>>two_fair<<<-
+ Real time: 2.43 seconds
+ CPU time: 2.42 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.92 seconds
+
+->>>two_fair<<<-
+ Real time: 2.37 seconds
+ CPU time: 2.37 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.94 seconds
+ CPU time: 2.94 seconds
+
+->>>two_fair<<<-
+ Real time: 2.34 seconds
+ CPU time: 2.34 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.95 seconds
+
+->>>two_fair<<<-
+ Real time: 2.42 seconds
+ CPU time: 2.42 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.92 seconds
+
+->>>two_fair<<<-
+ Real time: 2.48 seconds
+ CPU time: 2.47 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.95 seconds
+ CPU time: 2.94 seconds
+
+->>>two_fair<<<-
+ Real time: 2.43 seconds
+ CPU time: 2.43 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.91 seconds
+
+->>>two_fair<<<-
+ Real time: 5.03 seconds
+ CPU time: 5.03 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.16 seconds
+ CPU time: 3.16 seconds
+
+->>>two_fair<<<-
+ Real time: 5.18 seconds
+ CPU time: 5.18 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.11 seconds
+ CPU time: 3.11 seconds
+
+->>>two_fair<<<-
+ Real time: 5.22 seconds
+ CPU time: 5.22 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.21 seconds
+ CPU time: 3.21 seconds
+
+->>>two_fair<<<-
+ Real time: 5.15 seconds
+ CPU time: 5.15 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>two_fair<<<-
+ Real time: 5.10 seconds
+ CPU time: 5.10 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.17 seconds
+ CPU time: 3.17 seconds
+
+->>>two_fair<<<-
+ Real time: 5.21 seconds
+ CPU time: 5.21 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.23 seconds
+ CPU time: 3.23 seconds
+
+->>>two_fair<<<-
+ Real time: 4.90 seconds
+ CPU time: 4.90 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.17 seconds
+ CPU time: 3.16 seconds
+
+->>>two_fair<<<-
+ Real time: 5.16 seconds
+ CPU time: 5.16 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.25 seconds
+ CPU time: 3.25 seconds
+
+->>>two_fair<<<-
+ Real time: 5.06 seconds
+ CPU time: 5.06 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.21 seconds
+ CPU time: 3.21 seconds
+
+->>>two_fair<<<-
+ Real time: 4.96 seconds
+ CPU time: 4.96 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.20 seconds
+ CPU time: 3.20 seconds
+
+->>>two_fair<<<-
+ Real time: 4.99 seconds
+ CPU time: 4.99 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>two_fair<<<-
+ Real time: 5.03 seconds
+ CPU time: 5.03 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.15 seconds
+ CPU time: 3.15 seconds
+
+->>>two_fair<<<-
+ Real time: 5.26 seconds
+ CPU time: 5.26 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>two_fair<<<-
+ Real time: 5.29 seconds
+ CPU time: 5.26 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.15 seconds
+ CPU time: 3.14 seconds
+
+->>>two_fair<<<-
+ Real time: 5.19 seconds
+ CPU time: 5.19 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.26 seconds
+ CPU time: 3.26 seconds
+
+->>>two_fair<<<-
+ Real time: 2.26 seconds
+ CPU time: 2.26 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.06 seconds
+ CPU time: 3.06 seconds
+
+->>>two_fair<<<-
+ Real time: 2.31 seconds
+ CPU time: 2.31 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.91 seconds
+
+->>>two_fair<<<-
+ Real time: 2.46 seconds
+ CPU time: 2.46 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.91 seconds
+ CPU time: 2.91 seconds
+
+->>>two_fair<<<-
+ Real time: 2.36 seconds
+ CPU time: 2.36 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.96 seconds
+ CPU time: 2.96 seconds
+
+->>>two_fair<<<-
+ Real time: 2.39 seconds
+ CPU time: 2.39 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.00 seconds
+ CPU time: 3.00 seconds
+
+->>>two_fair<<<-
+ Real time: 2.43 seconds
+ CPU time: 2.43 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.88 seconds
+ CPU time: 2.88 seconds
+
+->>>two_fair<<<-
+ Real time: 2.47 seconds
+ CPU time: 2.47 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.94 seconds
+ CPU time: 2.93 seconds
+
+->>>two_fair<<<-
+ Real time: 47.11 seconds
+ CPU time: 46.91 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 27.46 seconds
+ CPU time: 27.45 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.82 seconds
+ CPU time: 27.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.65 seconds
+ CPU time: 27.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.77 seconds
+ CPU time: 27.74 seconds
+
+->>>two_fair<<<-
+ Real time: 47.47 seconds
+ CPU time: 47.45 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 26.50 seconds
+ CPU time: 26.50 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.78 seconds
+ CPU time: 26.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.67 seconds
+ CPU time: 26.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.90 seconds
+ CPU time: 26.89 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.92 seconds
+ CPU time: 26.92 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.05 seconds
+ CPU time: 27.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.08 seconds
+ CPU time: 27.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.07 seconds
+ CPU time: 27.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.37 seconds
+ CPU time: 27.35 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.37 seconds
+ CPU time: 27.36 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.33 seconds
+ CPU time: 27.32 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.42 seconds
+ CPU time: 27.42 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.43 seconds
+ CPU time: 27.42 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.66 seconds
+ CPU time: 27.65 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.63 seconds
+ CPU time: 27.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.70 seconds
+ CPU time: 27.69 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.62 seconds
+ CPU time: 27.56 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.89 seconds
+ CPU time: 27.88 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.72 seconds
+ CPU time: 27.71 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.86 seconds
+ CPU time: 27.85 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.79 seconds
+ CPU time: 27.78 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.81 seconds
+ CPU time: 27.78 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.04 seconds
+ CPU time: 28.98 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 28.76 seconds
+ CPU time: 28.73 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 30.01 seconds
+ CPU time: 29.95 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.32 seconds
+ CPU time: 27.31 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.87 seconds
+ CPU time: 27.85 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 28.12 seconds
+ CPU time: 28.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 28.45 seconds
+ CPU time: 28.44 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.60 seconds
+ CPU time: 27.54 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.71 seconds
+ CPU time: 29.47 seconds
+
+->>>two_fair<<<-
+ Real time: 94.19 seconds
+ CPU time: 89.38 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 28.96 seconds
+ CPU time: 28.88 seconds
+
+->>>two_fair<<<-
+ Real time: 78.16 seconds
+ CPU time: 77.68 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 32.02 seconds
+ CPU time: 31.59 seconds
+
+->>>two_fair<<<-
+ Real time: 70.47 seconds
+ CPU time: 69.51 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 29.73 seconds
+ CPU time: 29.62 seconds
+
+->>>two_fair<<<-
+ Real time: 58.75 seconds
+ CPU time: 57.73 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 28.58 seconds
+ CPU time: 28.38 seconds
+
+->>>two_fair<<<-
+ Real time: 61.95 seconds
+ CPU time: 61.74 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 30.54 seconds
+ CPU time: 29.60 seconds
+
+->>>two_fair<<<-
+ Real time: 57.23 seconds
+ CPU time: 57.22 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 28.57 seconds
+ CPU time: 28.51 seconds
+
+->>>two_fair<<<-
+ Real time: 57.38 seconds
+ CPU time: 57.33 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 30.41 seconds
+ CPU time: 30.34 seconds
+
+->>>two_fair<<<-
+ Real time: 60.42 seconds
+ CPU time: 60.09 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 29.84 seconds
+ CPU time: 29.66 seconds
+
+->>>two_fair<<<-
+ Real time: 60.34 seconds
+ CPU time: 60.23 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 29.01 seconds
+ CPU time: 28.97 seconds
+
+->>>two_fair<<<-
+ Real time: 59.57 seconds
+ CPU time: 59.53 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 28.04 seconds
+ CPU time: 27.97 seconds
+
+->>>two_fair<<<-
+ Real time: 117.22 seconds
+ CPU time: 116.99 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 31.35 seconds
+ CPU time: 31.30 seconds
+
+->>>two_fair<<<-
+ Real time: 142.61 seconds
+ CPU time: 141.45 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 34.45 seconds
+ CPU time: 34.37 seconds
+
+->>>two_fair<<<-
+ Real time: 131.87 seconds
+ CPU time: 131.12 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 33.70 seconds
+ CPU time: 33.60 seconds
+
+->>>two_fair<<<-
+ Real time: 140.32 seconds
+ CPU time: 138.60 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 35.41 seconds
+ CPU time: 34.89 seconds
+
+->>>two_fair<<<-
+ Real time: 141.81 seconds
+ CPU time: 139.34 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 39.66 seconds
+ CPU time: 37.78 seconds
+
+->>>two_fair<<<-
+ Real time: 136.30 seconds
+ CPU time: 136.07 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 32.56 seconds
+ CPU time: 32.49 seconds
+
+->>>two_fair<<<-
+ Real time: 136.30 seconds
+ CPU time: 135.02 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 34.57 seconds
+ CPU time: 34.07 seconds
+
+->>>two_fair<<<-
+ Real time: 138.19 seconds
+ CPU time: 135.55 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 33.56 seconds
+ CPU time: 33.24 seconds
+
+->>>two_fair<<<-
+ Real time: 136.02 seconds
+ CPU time: 132.71 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 38.95 seconds
+ CPU time: 37.28 seconds
+
+->>>two_fair<<<-
+ Real time: 129.07 seconds
+ CPU time: 128.84 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 32.48 seconds
+ CPU time: 32.47 seconds
+
+->>>two_fair<<<-
+ Real time: 133.79 seconds
+ CPU time: 133.74 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 32.88 seconds
+ CPU time: 32.69 seconds
+
+->>>two_fair<<<-
+ Real time: 130.03 seconds
+ CPU time: 129.55 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 32.20 seconds
+ CPU time: 32.13 seconds
+
+->>>two_fair<<<-
+ Real time: 128.37 seconds
+ CPU time: 128.09 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 32.39 seconds
+ CPU time: 32.38 seconds
+
+->>>two_fair<<<-
+ Real time: 132.40 seconds
+ CPU time: 132.27 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 31.99 seconds
+ CPU time: 31.96 seconds
+
+->>>two_fair<<<-
+ Real time: 128.80 seconds
+ CPU time: 128.51 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 31.83 seconds
+ CPU time: 31.76 seconds
+
+->>>two_fair<<<-
+ Real time: 129.95 seconds
+ CPU time: 129.48 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 32.51 seconds
+ CPU time: 32.37 seconds
+
+->>>two_fair<<<-
+ Real time: 128.47 seconds
+ CPU time: 128.04 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 33.16 seconds
+ CPU time: 32.98 seconds
+
+->>>two_fair<<<-
+ Real time: 139.27 seconds
+ CPU time: 136.18 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 35.38 seconds
+ CPU time: 34.70 seconds
+
+->>>two_fair<<<-
+ Real time: 131.73 seconds
+ CPU time: 130.52 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 36.92 seconds
+ CPU time: 35.23 seconds
+
+->>>two_fair<<<-
+ Real time: 143.77 seconds
+ CPU time: 136.73 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 36.12 seconds
+ CPU time: 34.08 seconds
+
+->>>two_fair<<<-
+ Real time: 127.71 seconds
+ CPU time: 127.22 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 32.51 seconds
+ CPU time: 32.41 seconds
+
+->>>two_fair<<<-
+ Real time: 136.54 seconds
+ CPU time: 133.50 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 32.05 seconds
+ CPU time: 32.03 seconds
+
+->>>two_fair<<<-
+ Real time: 128.37 seconds
+ CPU time: 127.69 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 34.38 seconds
+ CPU time: 32.21 seconds
+
+->>>two_fair<<<-
+ Real time: 89.90 seconds
+ CPU time: 89.60 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 27.93 seconds
+ CPU time: 27.92 seconds
+
+->>>two_fair<<<-
+ Real time: 127.98 seconds
+ CPU time: 127.71 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 32.60 seconds
+ CPU time: 32.46 seconds
+
+->>>two_fair<<<-
+ Real time: 127.41 seconds
+ CPU time: 127.18 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 31.83 seconds
+ CPU time: 31.79 seconds
+
+->>>two_fair<<<-
+ Real time: 129.10 seconds
+ CPU time: 128.35 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 31.96 seconds
+ CPU time: 31.85 seconds
+
+->>>two_fair<<<-
+ Real time: 198.01 seconds
+ CPU time: 196.93 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 41.13 seconds
+ CPU time: 40.89 seconds
+
+->>>two_fair<<<-
+ Real time: 132.85 seconds
+ CPU time: 132.25 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 32.35 seconds
+ CPU time: 32.29 seconds
+
+->>>two_fair<<<-
+ Real time: 82.10 seconds
+ CPU time: 81.97 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 28.66 seconds
+ CPU time: 28.56 seconds
+
+->>>two_fair<<<-
+ Real time: 81.73 seconds
+ CPU time: 81.42 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 28.19 seconds
+ CPU time: 28.18 seconds
+
+->>>two_fair<<<-
+ Real time: 95.66 seconds
+ CPU time: 95.62 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 29.56 seconds
+ CPU time: 29.50 seconds
+
+->>>two_fair<<<-
+ Real time: 120.07 seconds
+ CPU time: 119.94 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 31.44 seconds
+ CPU time: 31.43 seconds
+
+->>>two_fair<<<-
+ Real time: 107.57 seconds
+ CPU time: 107.39 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 30.32 seconds
+ CPU time: 30.31 seconds
+
+->>>two_fair<<<-
+ Real time: 113.84 seconds
+ CPU time: 113.38 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 30.94 seconds
+ CPU time: 30.93 seconds
+
+->>>two_fair<<<-
+ Real time: 115.81 seconds
+ CPU time: 115.69 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 31.62 seconds
+ CPU time: 31.38 seconds
+
+->>>two_fair<<<-
+ Real time: 117.26 seconds
+ CPU time: 117.12 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 31.59 seconds
+ CPU time: 31.59 seconds
+
+->>>two_fair<<<-
+ Real time: 120.10 seconds
+ CPU time: 119.99 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 32.16 seconds
+ CPU time: 32.15 seconds
+
+->>>two_fair<<<-
+ Real time: 119.27 seconds
+ CPU time: 118.87 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 31.43 seconds
+ CPU time: 31.41 seconds
+
+->>>two_fair<<<-
+ Real time: 168.44 seconds
+ CPU time: 168.27 seconds
+*****
+->>>two_fair<<<-
+ Real time: 146.96 seconds
+ CPU time: 146.57 seconds
+*****
+->>>two_fair<<<-
+ Real time: 162.41 seconds
+ CPU time: 162.18 seconds
+*****
+->>>two_fair<<<-
+ Real time: 147.56 seconds
+ CPU time: 146.33 seconds
+*****
+->>>two_fair<<<-
+ Real time: 134.26 seconds
+ CPU time: 134.12 seconds
+*****
+->>>two_fair<<<-
+ Real time: 149.99 seconds
+ CPU time: 141.54 seconds
+*****
+->>>two_fair<<<-
+ Real time: 137.15 seconds
+ CPU time: 133.00 seconds
+*****
+->>>two_fair<<<-
+ Real time: 141.71 seconds
+ CPU time: 136.34 seconds
+*****
+->>>two_fair<<<-
+ Real time: 135.34 seconds
+ CPU time: 133.01 seconds
+*****
+->>>two_fair<<<-
+ Real time: 132.47 seconds
+ CPU time: 131.61 seconds
+*****
+->>>two_fair<<<-
+ Real time: 130.97 seconds
+ CPU time: 130.74 seconds
+*****
+->>>two_fair<<<-
+ Real time: 128.33 seconds
+ CPU time: 127.98 seconds
+*****
+->>>two_fair<<<-
+ Real time: 127.87 seconds
+ CPU time: 127.73 seconds
+*****
+->>>two_fair<<<-
+ Real time: 128.22 seconds
+ CPU time: 128.01 seconds
+*****
+->>>two_fair<<<-
+ Real time: 127.94 seconds
+ CPU time: 127.84 seconds
+*****
+->>>two_fair<<<-
+ Real time: 128.53 seconds
+ CPU time: 128.44 seconds
+*****
+->>>two_fair<<<-
+ Real time: 124.14 seconds
+ CPU time: 123.95 seconds
+*****
+->>>two_fair<<<-
+ Real time: 117.53 seconds
+ CPU time: 117.27 seconds
+*****
+->>>two_fair<<<-
+ Real time: 111.49 seconds
+ CPU time: 111.21 seconds
+*****
+->>>two_fair<<<-
+ Real time: 118.51 seconds
+ CPU time: 118.43 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 32.20 seconds
+ CPU time: 32.04 seconds
+
+->>>two_fair<<<-
+ Real time: 120.47 seconds
+ CPU time: 120.18 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 31.25 seconds
+ CPU time: 31.24 seconds
+
+->>>two_fair<<<-
+ Real time: 90.41 seconds
+ CPU time: 90.26 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 28.61 seconds
+ CPU time: 28.61 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.88 seconds
+ CPU time: 29.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 30.32 seconds
+ CPU time: 30.32 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 30.93 seconds
+ CPU time: 30.88 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 30.80 seconds
+ CPU time: 30.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 30.75 seconds
+ CPU time: 30.73 seconds
+
+->>>two_fair<<<-
+ Real time: 94.78 seconds
+ CPU time: 94.71 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 32.05 seconds
+ CPU time: 31.97 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 32.11 seconds
+ CPU time: 32.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 30.38 seconds
+ CPU time: 30.37 seconds
+
+->>>two_fair<<<-
+ Real time: 92.40 seconds
+ CPU time: 92.33 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 31.39 seconds
+ CPU time: 31.38 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 32.19 seconds
+ CPU time: 32.14 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 32.17 seconds
+ CPU time: 32.15 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 32.24 seconds
+ CPU time: 32.23 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 38.33 seconds
+ CPU time: 36.73 seconds
+
+->>>two_fair<<<-
+ Real time: 94.87 seconds
+ CPU time: 94.48 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 28.93 seconds
+ CPU time: 28.91 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.88 seconds
+ CPU time: 29.78 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.29 seconds
+ CPU time: 29.26 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 30.49 seconds
+ CPU time: 30.43 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 30.08 seconds
+ CPU time: 29.97 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 32.11 seconds
+ CPU time: 32.00 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 33.47 seconds
+ CPU time: 32.90 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 36.31 seconds
+ CPU time: 34.40 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 33.87 seconds
+ CPU time: 33.61 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 33.51 seconds
+ CPU time: 33.32 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 34.47 seconds
+ CPU time: 33.47 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 33.19 seconds
+ CPU time: 32.78 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 31.32 seconds
+ CPU time: 31.20 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 30.92 seconds
+ CPU time: 30.86 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 30.47 seconds
+ CPU time: 30.46 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.24 seconds
+ CPU time: 29.22 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.50 seconds
+ CPU time: 29.48 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.83 seconds
+ CPU time: 29.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 30.69 seconds
+ CPU time: 30.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 31.67 seconds
+ CPU time: 31.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 32.63 seconds
+ CPU time: 32.32 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 31.38 seconds
+ CPU time: 31.30 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 31.61 seconds
+ CPU time: 31.57 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 31.07 seconds
+ CPU time: 31.03 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 30.96 seconds
+ CPU time: 30.91 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 34.26 seconds
+ CPU time: 33.57 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 35.89 seconds
+ CPU time: 35.33 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 35.44 seconds
+ CPU time: 35.00 seconds
+
+->>>two_fair<<<-
+ Real time: 3.61 seconds
+ CPU time: 3.61 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.80 seconds
+ CPU time: 3.80 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.86 seconds
+ CPU time: 3.86 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.88 seconds
+ CPU time: 3.88 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.97 seconds
+ CPU time: 3.96 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.51 seconds
+ CPU time: 3.51 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.69 seconds
+ CPU time: 3.69 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.74 seconds
+ CPU time: 3.73 seconds
+*****
+->>>two_fair<<<-
+ Real time: 4.53 seconds
+ CPU time: 4.53 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.95 seconds
+ CPU time: 3.95 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.80 seconds
+ CPU time: 3.80 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.78 seconds
+ CPU time: 3.78 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.56 seconds
+ CPU time: 3.56 seconds
+*****
+->>>two_fair<<<-
+ Real time: 3.71 seconds
+ CPU time: 3.71 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.30 seconds
+ CPU time: 8.29 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 7.56 seconds
+ CPU time: 7.54 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.60 seconds
+ CPU time: 7.60 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.52 seconds
+ CPU time: 7.52 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.50 seconds
+ CPU time: 7.50 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.55 seconds
+ CPU time: 7.54 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.60 seconds
+ CPU time: 7.59 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.82 seconds
+ CPU time: 7.72 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.61 seconds
+ CPU time: 7.60 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.71 seconds
+ CPU time: 7.66 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.64 seconds
+ CPU time: 7.64 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.12 seconds
+ CPU time: 7.92 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.65 seconds
+ CPU time: 7.65 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.68 seconds
+ CPU time: 7.68 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.72 seconds
+ CPU time: 7.72 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.69 seconds
+ CPU time: 7.69 seconds
+
+->>>two_fair<<<-
+ Real time: 8.21 seconds
+ CPU time: 8.21 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 7.43 seconds
+ CPU time: 7.43 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.47 seconds
+ CPU time: 7.45 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.45 seconds
+ CPU time: 7.45 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.44 seconds
+ CPU time: 7.44 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.47 seconds
+ CPU time: 7.47 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.59 seconds
+ CPU time: 7.58 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.56 seconds
+ CPU time: 7.56 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.63 seconds
+ CPU time: 7.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.65 seconds
+ CPU time: 7.65 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.12 seconds
+ CPU time: 8.00 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.75 seconds
+ CPU time: 7.75 seconds
+
+->>>two_fair<<<-
+ Real time: 8.48 seconds
+ CPU time: 8.47 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.76 seconds
+ CPU time: 8.76 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.87 seconds
+ CPU time: 8.86 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.53 seconds
+ CPU time: 8.52 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.23 seconds
+ CPU time: 8.23 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.00 seconds
+ CPU time: 7.99 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.07 seconds
+ CPU time: 8.07 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.74 seconds
+ CPU time: 8.74 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.80 seconds
+ CPU time: 8.78 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.37 seconds
+ CPU time: 8.37 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.45 seconds
+ CPU time: 8.44 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.37 seconds
+ CPU time: 8.37 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 7.53 seconds
+ CPU time: 7.53 seconds
+
+->>>two_fair<<<-
+ Real time: 8.83 seconds
+ CPU time: 8.82 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.49 seconds
+ CPU time: 8.49 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.31 seconds
+ CPU time: 8.31 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.17 seconds
+ CPU time: 8.16 seconds
+*****
+->>>two_fair<<<-
+ Real time: 8.25 seconds
+ CPU time: 8.25 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 7.55 seconds
+ CPU time: 7.55 seconds
+
+->>>two_fair<<<-
+ Real time: 15.39 seconds
+ CPU time: 15.38 seconds
+*****
+->>>two_fair<<<-
+ Real time: 14.92 seconds
+ CPU time: 14.91 seconds
+*****
+->>>two_fair<<<-
+ Real time: 14.97 seconds
+ CPU time: 14.96 seconds
+*****
+->>>two_fair<<<-
+ Real time: 15.08 seconds
+ CPU time: 15.06 seconds
+*****
+->>>two_fair<<<-
+ Real time: 15.20 seconds
+ CPU time: 15.19 seconds
+*****
+->>>two_fair<<<-
+ Real time: 15.34 seconds
+ CPU time: 15.33 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 8.54 seconds
+ CPU time: 8.54 seconds
+
+->>>two_fair<<<-
+ Real time: 15.58 seconds
+ CPU time: 15.58 seconds
+*****
+->>>two_fair<<<-
+ Real time: 15.08 seconds
+ CPU time: 15.08 seconds
+*****
+->>>two_fair<<<-
+ Real time: 15.45 seconds
+ CPU time: 15.45 seconds
+*****
+->>>two_fair<<<-
+ Real time: 15.41 seconds
+ CPU time: 15.40 seconds
+*****
+->>>two_fair<<<-
+ Real time: 15.39 seconds
+ CPU time: 15.38 seconds
+*****
+->>>two_fair<<<-
+ Real time: 15.41 seconds
+ CPU time: 15.41 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 8.54 seconds
+ CPU time: 8.54 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.49 seconds
+ CPU time: 8.49 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 10.38 seconds
+ CPU time: 10.27 seconds
+
+->>>two_fair<<<-
+ Real time: 15.12 seconds
+ CPU time: 15.12 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 8.10 seconds
+ CPU time: 8.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.28 seconds
+ CPU time: 8.27 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.83 seconds
+ CPU time: 8.52 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.16 seconds
+ CPU time: 8.15 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.23 seconds
+ CPU time: 8.23 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.22 seconds
+ CPU time: 8.22 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.28 seconds
+ CPU time: 8.28 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.64 seconds
+ CPU time: 8.59 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.59 seconds
+ CPU time: 8.59 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.18 seconds
+ CPU time: 8.17 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.16 seconds
+ CPU time: 8.16 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.18 seconds
+ CPU time: 8.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.18 seconds
+ CPU time: 8.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.20 seconds
+ CPU time: 8.20 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.25 seconds
+ CPU time: 8.24 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.39 seconds
+ CPU time: 8.39 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 9.28 seconds
+ CPU time: 9.22 seconds
+
+->>>two_fair<<<-
+ Real time: 15.40 seconds
+ CPU time: 15.39 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 8.15 seconds
+ CPU time: 8.15 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.21 seconds
+ CPU time: 8.20 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.25 seconds
+ CPU time: 8.23 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.29 seconds
+ CPU time: 8.29 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.27 seconds
+ CPU time: 8.27 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.40 seconds
+ CPU time: 8.36 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.29 seconds
+ CPU time: 8.29 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.50 seconds
+ CPU time: 8.49 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.59 seconds
+ CPU time: 8.58 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.63 seconds
+ CPU time: 8.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.70 seconds
+ CPU time: 8.70 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.61 seconds
+ CPU time: 8.60 seconds
+
+->>>two_fair<<<-
+ Real time: 15.39 seconds
+ CPU time: 15.38 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 8.18 seconds
+ CPU time: 8.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.19 seconds
+ CPU time: 8.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.27 seconds
+ CPU time: 8.26 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.36 seconds
+ CPU time: 8.35 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.29 seconds
+ CPU time: 8.28 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.35 seconds
+ CPU time: 8.35 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.44 seconds
+ CPU time: 8.44 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.50 seconds
+ CPU time: 8.49 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.49 seconds
+ CPU time: 8.49 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.54 seconds
+ CPU time: 8.54 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.64 seconds
+ CPU time: 8.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.60 seconds
+ CPU time: 8.60 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.70 seconds
+ CPU time: 8.69 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.76 seconds
+ CPU time: 8.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.77 seconds
+ CPU time: 8.77 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.74 seconds
+ CPU time: 8.74 seconds
+
+->>>two_fair<<<-
+ Real time: 16.63 seconds
+ CPU time: 16.58 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 8.40 seconds
+ CPU time: 8.39 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.78 seconds
+ CPU time: 8.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.97 seconds
+ CPU time: 8.96 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.80 seconds
+ CPU time: 8.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.27 seconds
+ CPU time: 8.26 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.22 seconds
+ CPU time: 8.22 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.73 seconds
+ CPU time: 8.72 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 9.23 seconds
+ CPU time: 9.20 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 9.39 seconds
+ CPU time: 9.36 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.74 seconds
+ CPU time: 8.72 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.64 seconds
+ CPU time: 8.64 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.80 seconds
+ CPU time: 8.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.44 seconds
+ CPU time: 8.44 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.50 seconds
+ CPU time: 8.49 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.75 seconds
+ CPU time: 8.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 9.57 seconds
+ CPU time: 9.55 seconds
+
+->>>two_fair<<<-
+ Real time: 15.50 seconds
+ CPU time: 15.49 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 8.18 seconds
+ CPU time: 8.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.15 seconds
+ CPU time: 8.14 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.22 seconds
+ CPU time: 8.22 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.38 seconds
+ CPU time: 8.31 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.25 seconds
+ CPU time: 8.23 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.27 seconds
+ CPU time: 8.27 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.29 seconds
+ CPU time: 8.29 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.47 seconds
+ CPU time: 8.47 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.34 seconds
+ CPU time: 8.34 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.44 seconds
+ CPU time: 8.44 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.49 seconds
+ CPU time: 8.48 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.57 seconds
+ CPU time: 8.57 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.61 seconds
+ CPU time: 8.60 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.60 seconds
+ CPU time: 8.60 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.70 seconds
+ CPU time: 8.70 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.66 seconds
+ CPU time: 8.66 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.70 seconds
+ CPU time: 8.69 seconds
+
+->>>two_fair<<<-
+ Real time: 15.44 seconds
+ CPU time: 15.43 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 8.18 seconds
+ CPU time: 8.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.24 seconds
+ CPU time: 8.24 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.23 seconds
+ CPU time: 8.22 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.29 seconds
+ CPU time: 8.29 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.32 seconds
+ CPU time: 8.31 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.36 seconds
+ CPU time: 8.36 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.42 seconds
+ CPU time: 8.42 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.44 seconds
+ CPU time: 8.44 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.46 seconds
+ CPU time: 8.46 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.58 seconds
+ CPU time: 8.58 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.52 seconds
+ CPU time: 8.52 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.55 seconds
+ CPU time: 8.54 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.68 seconds
+ CPU time: 8.68 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.66 seconds
+ CPU time: 8.65 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.70 seconds
+ CPU time: 8.70 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.72 seconds
+ CPU time: 8.72 seconds
+
+->>>two_fair<<<-
+ Real time: 15.40 seconds
+ CPU time: 15.39 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 8.20 seconds
+ CPU time: 8.19 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.21 seconds
+ CPU time: 8.21 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.25 seconds
+ CPU time: 8.25 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.31 seconds
+ CPU time: 8.31 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.35 seconds
+ CPU time: 8.35 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.36 seconds
+ CPU time: 8.36 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.55 seconds
+ CPU time: 8.49 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.53 seconds
+ CPU time: 8.48 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.45 seconds
+ CPU time: 8.44 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.49 seconds
+ CPU time: 8.49 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.51 seconds
+ CPU time: 8.50 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.55 seconds
+ CPU time: 8.55 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.63 seconds
+ CPU time: 8.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.68 seconds
+ CPU time: 8.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.62 seconds
+ CPU time: 8.61 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.62 seconds
+ CPU time: 8.62 seconds
+
+->>>two_fair<<<-
+ Real time: 15.23 seconds
+ CPU time: 15.22 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 8.21 seconds
+ CPU time: 8.20 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.31 seconds
+ CPU time: 8.30 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.26 seconds
+ CPU time: 8.26 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.26 seconds
+ CPU time: 8.26 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.24 seconds
+ CPU time: 8.23 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.39 seconds
+ CPU time: 8.38 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.41 seconds
+ CPU time: 8.40 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.38 seconds
+ CPU time: 8.38 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.43 seconds
+ CPU time: 8.42 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.45 seconds
+ CPU time: 8.45 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.46 seconds
+ CPU time: 8.46 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.56 seconds
+ CPU time: 8.56 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.55 seconds
+ CPU time: 8.55 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.75 seconds
+ CPU time: 8.72 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.67 seconds
+ CPU time: 8.66 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.63 seconds
+ CPU time: 8.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.72 seconds
+ CPU time: 8.71 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.74 seconds
+ CPU time: 8.74 seconds
+
+->>>two_fair<<<-
+ Real time: 14.72 seconds
+ CPU time: 14.72 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 7.96 seconds
+ CPU time: 7.96 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.05 seconds
+ CPU time: 8.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.11 seconds
+ CPU time: 8.11 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.17 seconds
+ CPU time: 8.17 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.08 seconds
+ CPU time: 8.08 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.14 seconds
+ CPU time: 8.14 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.22 seconds
+ CPU time: 8.21 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.21 seconds
+ CPU time: 8.21 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.33 seconds
+ CPU time: 8.33 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.20 seconds
+ CPU time: 8.20 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.28 seconds
+ CPU time: 8.28 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.41 seconds
+ CPU time: 8.41 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.38 seconds
+ CPU time: 8.38 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.38 seconds
+ CPU time: 8.37 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.40 seconds
+ CPU time: 8.40 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.44 seconds
+ CPU time: 8.44 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.53 seconds
+ CPU time: 8.52 seconds
+
+->>>two_fair<<<-
+ Real time: 8.24 seconds
+ CPU time: 8.18 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 7.57 seconds
+ CPU time: 7.57 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.53 seconds
+ CPU time: 7.52 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.57 seconds
+ CPU time: 7.57 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.74 seconds
+ CPU time: 7.73 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.66 seconds
+ CPU time: 7.66 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.66 seconds
+ CPU time: 7.66 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.84 seconds
+ CPU time: 7.81 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.72 seconds
+ CPU time: 7.72 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.77 seconds
+ CPU time: 7.70 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.73 seconds
+ CPU time: 7.73 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.73 seconds
+ CPU time: 7.73 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.88 seconds
+ CPU time: 7.87 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.86 seconds
+ CPU time: 7.85 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.95 seconds
+ CPU time: 7.94 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.02 seconds
+ CPU time: 7.94 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.90 seconds
+ CPU time: 7.89 seconds
+
+->>>two_fair<<<-
+ Real time: 8.25 seconds
+ CPU time: 8.25 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 7.53 seconds
+ CPU time: 7.53 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.62 seconds
+ CPU time: 7.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.60 seconds
+ CPU time: 7.60 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.63 seconds
+ CPU time: 7.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.81 seconds
+ CPU time: 7.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.81 seconds
+ CPU time: 7.81 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.75 seconds
+ CPU time: 7.75 seconds
+
+->>>two_fair<<<-
+ Real time: 8.21 seconds
+ CPU time: 8.20 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 7.54 seconds
+ CPU time: 7.54 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.59 seconds
+ CPU time: 7.57 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.72 seconds
+ CPU time: 7.71 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.68 seconds
+ CPU time: 7.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.57 seconds
+ CPU time: 7.57 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.57 seconds
+ CPU time: 7.57 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.58 seconds
+ CPU time: 7.58 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.62 seconds
+ CPU time: 7.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.67 seconds
+ CPU time: 7.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.67 seconds
+ CPU time: 7.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.67 seconds
+ CPU time: 7.67 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.69 seconds
+ CPU time: 7.69 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.71 seconds
+ CPU time: 7.71 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 7.72 seconds
+ CPU time: 7.72 seconds
+
+->>>two_fair<<<-
+ Real time: 14.88 seconds
+ CPU time: 14.88 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 8.04 seconds
+ CPU time: 8.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.11 seconds
+ CPU time: 8.11 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.10 seconds
+ CPU time: 8.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.16 seconds
+ CPU time: 8.16 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.08 seconds
+ CPU time: 8.08 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.25 seconds
+ CPU time: 8.24 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.21 seconds
+ CPU time: 8.21 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.36 seconds
+ CPU time: 8.36 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.39 seconds
+ CPU time: 8.39 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.39 seconds
+ CPU time: 8.39 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 83.67 seconds
+ CPU time: 83.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 84.59 seconds
+ CPU time: 84.57 seconds
+
+->>>two_fair<<<-
+ Real time: 15.45 seconds
+ CPU time: 15.45 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 8.29 seconds
+ CPU time: 8.29 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.33 seconds
+ CPU time: 8.33 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.37 seconds
+ CPU time: 8.37 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.41 seconds
+ CPU time: 8.41 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.43 seconds
+ CPU time: 8.43 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.39 seconds
+ CPU time: 8.39 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.38 seconds
+ CPU time: 8.38 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.56 seconds
+ CPU time: 8.52 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.64 seconds
+ CPU time: 8.63 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.61 seconds
+ CPU time: 8.60 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.69 seconds
+ CPU time: 8.69 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.76 seconds
+ CPU time: 8.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.75 seconds
+ CPU time: 8.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 8.74 seconds
+ CPU time: 8.74 seconds
+
+->>>two_fair<<<-
+ Real time: 1.98 seconds
+ CPU time: 1.98 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.77 seconds
+ CPU time: 2.77 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.74 seconds
+ CPU time: 2.74 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.79 seconds
+ CPU time: 2.78 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.77 seconds
+ CPU time: 2.77 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.83 seconds
+ CPU time: 2.83 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.88 seconds
+ CPU time: 2.88 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.87 seconds
+ CPU time: 2.87 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.82 seconds
+ CPU time: 2.82 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.87 seconds
+ CPU time: 2.87 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.84 seconds
+ CPU time: 2.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.89 seconds
+ CPU time: 2.89 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.92 seconds
+ CPU time: 2.92 seconds
+
+->>>two_fair<<<-
+ Real time: 4.49 seconds
+ CPU time: 4.48 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.01 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.01 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.01 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.98 seconds
+ CPU time: 2.98 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.00 seconds
+ CPU time: 3.00 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.99 seconds
+ CPU time: 2.99 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.00 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.14 seconds
+ CPU time: 3.11 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.03 seconds
+ CPU time: 3.03 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.08 seconds
+ CPU time: 3.08 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.09 seconds
+ CPU time: 3.09 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.14 seconds
+ CPU time: 3.13 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.07 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.10 seconds
+ CPU time: 3.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.21 seconds
+ CPU time: 3.20 seconds
+
+->>>two_fair<<<-
+ Real time: 4.48 seconds
+ CPU time: 4.47 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.96 seconds
+ CPU time: 2.96 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.00 seconds
+ CPU time: 3.00 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.03 seconds
+ CPU time: 3.03 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.05 seconds
+ CPU time: 3.05 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.07 seconds
+ CPU time: 3.06 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.12 seconds
+ CPU time: 3.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.14 seconds
+ CPU time: 3.14 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.13 seconds
+ CPU time: 3.13 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.16 seconds
+ CPU time: 3.16 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.17 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.22 seconds
+ CPU time: 3.21 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.18 seconds
+ CPU time: 3.18 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.20 seconds
+ CPU time: 3.20 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.21 seconds
+ CPU time: 3.20 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.26 seconds
+ CPU time: 3.26 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.27 seconds
+ CPU time: 3.27 seconds
+
+->>>two_fair<<<-
+ Real time: 2.03 seconds
+ CPU time: 2.03 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 2.76 seconds
+ CPU time: 2.76 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.80 seconds
+ CPU time: 2.80 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.78 seconds
+ CPU time: 2.78 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.08 seconds
+ CPU time: 3.08 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.04 seconds
+ CPU time: 3.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.11 seconds
+ CPU time: 3.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.12 seconds
+ CPU time: 3.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.01 seconds
+ CPU time: 3.01 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 3.02 seconds
+ CPU time: 3.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 2.97 seconds
+ CPU time: 2.97 seconds
+
+->>>two_fair<<<-
+ Real time: 44.59 seconds
+ CPU time: 44.58 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 26.75 seconds
+ CPU time: 26.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.56 seconds
+ CPU time: 27.56 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.86 seconds
+ CPU time: 27.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.87 seconds
+ CPU time: 27.86 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.96 seconds
+ CPU time: 27.95 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 28.05 seconds
+ CPU time: 28.04 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.91 seconds
+ CPU time: 27.90 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 28.57 seconds
+ CPU time: 28.46 seconds
+
+->>>two_fair<<<-
+ Real time: 94.92 seconds
+ CPU time: 94.82 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 30.43 seconds
+ CPU time: 30.40 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 30.93 seconds
+ CPU time: 30.84 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 31.37 seconds
+ CPU time: 31.32 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 31.95 seconds
+ CPU time: 31.93 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 32.02 seconds
+ CPU time: 32.00 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 32.14 seconds
+ CPU time: 32.12 seconds
+
+->>>two_fair<<<-
+ Real time: 44.65 seconds
+ CPU time: 44.62 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 26.12 seconds
+ CPU time: 26.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.06 seconds
+ CPU time: 26.06 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.36 seconds
+ CPU time: 26.27 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.34 seconds
+ CPU time: 26.34 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.23 seconds
+ CPU time: 26.23 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.23 seconds
+ CPU time: 26.22 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.40 seconds
+ CPU time: 26.40 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.36 seconds
+ CPU time: 26.35 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.44 seconds
+ CPU time: 26.44 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.43 seconds
+ CPU time: 26.37 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.44 seconds
+ CPU time: 26.43 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.43 seconds
+ CPU time: 26.43 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.54 seconds
+ CPU time: 26.53 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.47 seconds
+ CPU time: 26.47 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.36 seconds
+ CPU time: 26.36 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.46 seconds
+ CPU time: 26.45 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.47 seconds
+ CPU time: 26.41 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 26.54 seconds
+ CPU time: 26.53 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.40 seconds
+ CPU time: 27.39 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.46 seconds
+ CPU time: 27.45 seconds
+
+->>>two_fair<<<-
+ Real time: 90.31 seconds
+ CPU time: 90.28 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 28.00 seconds
+ CPU time: 27.93 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 28.04 seconds
+ CPU time: 28.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 28.30 seconds
+ CPU time: 28.30 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 28.51 seconds
+ CPU time: 28.46 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 28.38 seconds
+ CPU time: 28.37 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 28.54 seconds
+ CPU time: 28.52 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 28.53 seconds
+ CPU time: 28.52 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 28.54 seconds
+ CPU time: 28.51 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 28.91 seconds
+ CPU time: 28.90 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.00 seconds
+ CPU time: 28.99 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.22 seconds
+ CPU time: 29.21 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.02 seconds
+ CPU time: 29.02 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.11 seconds
+ CPU time: 29.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.34 seconds
+ CPU time: 29.22 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.09 seconds
+ CPU time: 29.08 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.13 seconds
+ CPU time: 29.13 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.57 seconds
+ CPU time: 29.57 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 34.65 seconds
+ CPU time: 34.12 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 31.21 seconds
+ CPU time: 31.10 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.22 seconds
+ CPU time: 29.21 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 29.26 seconds
+ CPU time: 29.19 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 31.79 seconds
+ CPU time: 31.75 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 30.85 seconds
+ CPU time: 30.79 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 31.82 seconds
+ CPU time: 31.74 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 31.68 seconds
+ CPU time: 31.66 seconds
+
+->>>two_fair<<<-
+ Real time: 89.29 seconds
+ CPU time: 89.07 seconds
+*****
+->>>two_fair<<<-
+ Real time: 102.99 seconds
+ CPU time: 102.91 seconds
+*****
+->>>two_fair<<<-
+ Real time: 87.96 seconds
+ CPU time: 87.84 seconds
+*****
+->>>two_fair<<<-
+ Real time: 74.97 seconds
+ CPU time: 74.92 seconds
+*****
+->>>two_fair<<<-
+ Real time: 68.43 seconds
+ CPU time: 68.38 seconds
+*****
+->>>two_fair<<<-
+ Real time: 66.78 seconds
+ CPU time: 66.77 seconds
+*****
+->>>two_fair<<<-
+ Real time: 66.25 seconds
+ CPU time: 66.04 seconds
+*****
+->>>two_fair<<<-
+ Real time: 70.93 seconds
+ CPU time: 70.37 seconds
+*****
+->>>two_fair<<<-
+ Real time: 67.61 seconds
+ CPU time: 67.28 seconds
+*****
+->>>two_fair<<<-
+ Real time: 67.69 seconds
+ CPU time: 67.44 seconds
+*****
+->>>two_fair<<<-
+ Real time: 65.77 seconds
+ CPU time: 65.67 seconds
+*****
+->>>two_fair<<<-
+ Real time: 66.45 seconds
+ CPU time: 66.34 seconds
+*****
+->>>two_fair<<<-
+ Real time: 68.14 seconds
+ CPU time: 67.98 seconds
+*****
+->>>two_fair<<<-
+ Real time: 90.05 seconds
+ CPU time: 89.73 seconds
+*****
+->>>two_fair<<<-
+ Real time: 72.53 seconds
+ CPU time: 72.52 seconds
+*****
+->>>two_fair<<<-
+ Real time: 68.66 seconds
+ CPU time: 68.54 seconds
+*****
+->>>two_fair<<<-
+ Real time: 87.01 seconds
+ CPU time: 86.96 seconds
+*****
+->>>two_fair<<<-
+ Real time: 75.22 seconds
+ CPU time: 75.20 seconds
+*****
+->>>two_fair<<<-
+ Real time: 70.13 seconds
+ CPU time: 70.11 seconds
+*****
+->>>two_fair<<<-
+ Real time: 69.11 seconds
+ CPU time: 68.67 seconds
+*****
+->>>two_fair<<<-
+ Real time: 68.90 seconds
+ CPU time: 68.18 seconds
+*****
+->>>two_fair<<<-
+ Real time: 67.18 seconds
+ CPU time: 67.11 seconds
+*****
+->>>two_fair<<<-
+ Real time: 67.04 seconds
+ CPU time: 66.68 seconds
+*****
+->>>two_fair<<<-
+ Real time: 68.28 seconds
+ CPU time: 66.02 seconds
+*****
+->>>two_fair<<<-
+ Real time: 66.50 seconds
+ CPU time: 66.30 seconds
+*****
+->>>two_fair<<<-
+ Real time: 65.43 seconds
+ CPU time: 65.14 seconds
+*****
+->>>two_fair<<<-
+ Real time: 87.19 seconds
+ CPU time: 87.08 seconds
+*****
+->>>two_fair<<<-
+ Real time: 73.52 seconds
+ CPU time: 73.45 seconds
+*****
+->>>two_fair<<<-
+ Real time: 70.87 seconds
+ CPU time: 70.85 seconds
+*****
+->>>two_fair<<<-
+ Real time: 68.01 seconds
+ CPU time: 67.98 seconds
+*****
+->>>two_fair<<<-
+ Real time: 67.88 seconds
+ CPU time: 67.84 seconds
+*****
+->>>two_fair<<<-
+ Real time: 65.41 seconds
+ CPU time: 65.39 seconds
+*****
+->>>two_fair<<<-
+ Real time: 58.25 seconds
+ CPU time: 58.17 seconds
+*****
+->>>two_fair<<<-
+ Real time: 56.01 seconds
+ CPU time: 55.99 seconds
+*****
+->>>two_fair<<<-
+ Real time: 58.63 seconds
+ CPU time: 58.60 seconds
+*****
+->>>closest_agent_distances<<<-
+ Real time: 28.67 seconds
+ CPU time: 28.62 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.14 seconds
+ CPU time: 27.13 seconds
+
+->>>closest_agent_distances<<<-
+ Real time: 27.59 seconds
+ CPU time: 27.58 seconds
+
